@@ -1,0 +1,2 @@
+# Advanced-Calculator-python
+ This Advanced Calculator is a Python program designed to perform a wide range of mathematical operations, from basic arithmetic to more complex functions. It is user-friendly and capable of handling:  Basic operations: addition, subtraction, multiplication, and division. Advanced calculations: exponentiation (power), square root, and logarithms. Trigonometric functions: sine, cosine, and tangent, working with angles in degrees.
